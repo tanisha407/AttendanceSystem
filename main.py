@@ -1,6 +1,5 @@
+
 import cv2
-import os
-import numpy as npimport cv2
 import os
 import numpy as np
 import datetime
